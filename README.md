@@ -4,6 +4,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](#)
 
 🔗 **Live Deployment:** (https://bordeauxwinepredictor.streamlit.app/)
+
 A custom-built Multi-Layer Perceptron (MLP) engineered to predict wine quality scores based on physiochemical telemetry. Developed entirely from scratch using **PyTorch**, this project transforms raw tabular data into a real-time, interactive inference engine.
 
 ---
